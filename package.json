@@ -1,0 +1,15 @@
+{
+  "name": "first_proyect",
+  "version": "0.0.1",
+  "description": "Genera tablas de multiplicar de un numero X a otro numero X creando un archivo txt independiente para cada tabla de multiplicar.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MR company",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.0.1"
+  }
+}
